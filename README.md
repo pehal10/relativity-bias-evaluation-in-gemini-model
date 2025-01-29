@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project for Relativity was focused on the potential harms of generative AI in the justice system by analyzing biases within frontier AI models, specifically the Gemini-1.5-Flash-Latest model. Our objective  understanding how these biases impact sentiment analysis when evaluating sensitive identity attributes mamely, age, ethnicity, and religion. Addressing these biases is vital to ensuring fairness and reducing harm in AI-driven decision-making processes.
+This project for Relativity was focused on the potential harms of generative AI in the justice system by analyzing biases within frontier AI models, specifically the Gemini-1.5-Flash-Latest model. Our objective was understanding how these biases impact sentiment analysis when evaluating sensitive identity attributes mamely, age, ethnicity, and religion. Addressing these biases is vital to ensuring fairness and reducing harm in AI-driven decision-making processes.
 
 ## Objectives and Goals
 
